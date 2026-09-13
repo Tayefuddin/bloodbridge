@@ -1,0 +1,14 @@
+{
+  "project": "utility-scripts",
+  "version": "1.0.4",
+  "active": true,
+  "maintainers": [
+    "Gotham Central",
+    "R&D Division"
+  ],
+  "settings": {
+    "autoSave": true,
+    "timeout": 300,
+    "environment": "production"
+  }
+}
